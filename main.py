@@ -10,8 +10,7 @@ import subprocess
 from datetime import datetime
 from colorama import Fore, Style
 
-print ("Welcome to python cron job!\n")
-print ("2023-2024 (c) Lukas Stuffer")
+print ("\n2023-2024 (c) Lukas Stuffer")
 print ("IG: _lukasstuffer_")
 
 
