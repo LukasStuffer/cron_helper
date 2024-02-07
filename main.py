@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Lukas Stuffer 2023-2024
+# Lukas Stuffer
 # IG: _lukasstuffer_
 
 # include this script in the server's cron job
