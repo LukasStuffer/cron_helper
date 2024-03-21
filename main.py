@@ -18,8 +18,8 @@ if __name__ == "__main__":
     
     # name/description : command
     work = [
-        ['DB-Maintenance'   , 'python3 /var/www/python/maintenance/main.py'],
-        ['Virustotal-Check' , 'python3 /var/www/python/virustotal/main.py']
+        ['DB-Maintenance'   , 'python3 /var/python/maintenance/main.py'],
+        ['Virustotal-Check' , 'python3 /var/python/virustotal/main.py']
     ]
     
     
